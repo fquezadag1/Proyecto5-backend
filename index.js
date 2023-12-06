@@ -33,7 +33,7 @@ const mercadopago = require("mercadopago")
 const { update } = require('./models/Product')
 
 mercadopago.configure({
-    access_token: "TEST-1692220363732658-111103-4d1a8c97cb67179282c33c457e4932c8-1545347358"
+    access_token: "TEST-8337801143198563-120523-c838053b1e2fac4a269b16d38bf83097-1578915349"
 })
 
 
